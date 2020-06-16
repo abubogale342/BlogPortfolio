@@ -1,17 +1,17 @@
-.header {
+.header{
     display: flex;
     justify-content: space-between;
-    margin: 10px;
+    margin: 10px 0;
 }
 
-.header-menu a{
-    margin: 0 10px ;
-    display: inline block;
-    letter-spacing: 1.2px;
-    font-size: 12px;
+.headerMenu a{
+    display: inline-block;
+    margin: 0 10px;
     text-decoration: none;
     color: #565673;
+    font-size: 12px;
+    letter-spacing: 1.2px;
 }
-.header-menu a:hover{
-    color: #5f9ca0;
+.headerMenu a:hover{
+    color: #5f9ea0;
 }
